@@ -36,8 +36,8 @@ const Index = () => {
         
         <div className="my-12 text-center">
           <p className="text-xl md:text-2xl mb-6 leading-relaxed max-w-3xl mx-auto text-gray-300">
-            Sot është një ditë e veçantë për shokun tim të ngushtë Albani! 
-            Festojmë së bashku dhe kujtojmë momentet tona më të bukura.
+            Sot është një ditë e veçantë ty vlla Alban
+            Festojmë së bashku dhe ishalla gjithmon se bashku.
           </p>
           
           <div className="inline-block animate-pulse-red bg-albani-red text-white text-2xl md:text-3xl p-4 rounded-lg shadow-lg">
