@@ -2,7 +2,6 @@
 import Header from "@/components/Header";
 import PhotoGallery from "@/components/PhotoGallery";
 import VideoUpload from "@/components/VideoUpload";
-import Wishes from "@/components/Wishes";
 import Footer from "@/components/Footer";
 import { useEffect, useState } from "react";
 
@@ -48,7 +47,6 @@ const Index = () => {
         
         <PhotoGallery />
         <VideoUpload />
-        <Wishes />
         <Footer />
       </div>
     </div>
