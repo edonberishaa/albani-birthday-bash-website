@@ -49,7 +49,7 @@ const PhotoGallery = () => {
 
   return (
     <section className="my-12">
-      <h2 className="text-2xl md:text-3xl font-bold mb-6 text-center">Kujtimet Tona</h2>
+      <h2 className="text-2xl md:text-3xl font-bold mb-6 text-center">Jarani jon</h2>
       
       <div className="photo-grid">
         {photos.map((photo) => (
