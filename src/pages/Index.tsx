@@ -41,7 +41,7 @@ const Index = () => {
           </p>
           
           <div className="inline-block animate-pulse-red bg-albani-red text-white text-2xl md:text-3xl p-4 rounded-lg shadow-lg">
-            {new Date().toLocaleDateString('sq-AL', { day: 'numeric', month: 'long', year: 'numeric' })}
+            13 prill, 2004
           </div>
         </div>
         
@@ -54,3 +54,4 @@ const Index = () => {
 };
 
 export default Index;
+
