@@ -18,7 +18,7 @@ const Header = () => {
       <p 
         className={`text-xl md:text-2xl text-gray-300 transition-opacity duration-1000 delay-300 ${isMounted ? 'opacity-100' : 'opacity-0'}`}
       >
-        Edhe 100 vite tjera t lumtura!
+        Ne kete dite nje yll nga qielli zbriti per tna zbukuruar jeten tone <3
       </p>
     </header>
   );
