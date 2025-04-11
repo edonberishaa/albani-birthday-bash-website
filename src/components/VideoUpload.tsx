@@ -4,7 +4,7 @@ import React from 'react';
 const VideoUpload = () => {
   return (
     <section className="my-16 video-section p-6 bg-albani-black">
-      <h2 className="text-2xl md:text-3xl font-bold mb-6 text-center">Mesazhi Special</h2>
+      <h2 className="text-2xl md:text-3xl font-bold mb-6 text-center">Faca jon</h2>
       
       <div className="flex flex-col items-center">
         <div className="w-full max-w-2xl mb-6">
